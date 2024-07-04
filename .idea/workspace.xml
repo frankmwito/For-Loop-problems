@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd6ef6a-b81d-404f-b00e-13a70a12f352" name="Changes" comment="For loop practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3fd6ef6a-b81d-404f-b00e-13a70a12f352" name="Changes" comment="Multiplication table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,7 @@
     "Kotlin.Factorial_of_a_numberKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Multiplication_tableKt.executor": "Run",
+    "Kotlin.Print_Even_numbersKt.executor": "Run",
     "Kotlin.Sum_of_Natural_NumbersKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720113455561</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Multiplication table">
+      <option name="closed" value="true" />
+      <created>1720114260807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720114260807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="For loop practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="For loop practice" />
+    <MESSAGE value="Multiplication table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiplication table" />
   </component>
 </project>
