@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd6ef6a-b81d-404f-b00e-13a70a12f352" name="Changes" comment="Print prime numbers">
+    <list default="true" id="3fd6ef6a-b81d-404f-b00e-13a70a12f352" name="Changes" comment="Count vowels in a String">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Kotlin.Reverse_a_StringKt.executor": "Run",
     "Kotlin.Sum_of_Natural_NumbersKt.executor": "Run",
     "Kotlin.Sum_of_digits_of_a_numberKt.executor": "Run",
+    "Kotlin.Sum_of_even_and_odd_numbersKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720151871834</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Count vowels in a String">
+      <option name="closed" value="true" />
+      <created>1720153970556</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720153970556</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +170,7 @@
     <MESSAGE value="Even numbers for loop" />
     <MESSAGE value="Reverse a string in a loop" />
     <MESSAGE value="Print prime numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print prime numbers" />
+    <MESSAGE value="Count vowels in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count vowels in a String" />
   </component>
 </project>
